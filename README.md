@@ -1,6 +1,8 @@
 Página Web da Filmografia Studio Ghibli
+
 Descrição
 Este projeto consiste em uma página web que apresenta um banco de dados completo da filmografia do Studio Ghibli, desenvolvido a partir de uma imersão em desenvolvimento web em parceria com o Google Gemini e a Alura. A página oferece aos usuários uma maneira fácil e interativa de explorar os filmes do estúdio, com recursos de pesquisa para encontrar informações específicas de forma rápida.
+
 Funcionalidades
 
 Banco de dados completo: Contém informações detalhadas sobre cada filme do Studio Ghibli, incluindo título, ano de lançamento, sinopse, link para o site oficial e tags com palavras-chave relacionadas.
