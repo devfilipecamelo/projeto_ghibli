@@ -5,7 +5,7 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Lobster Two", sans-serif; /* Define a fonte padrão */
-    background-image: url('./assets/wallpaper.png');
+    background-image: url('./wallpaper.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
